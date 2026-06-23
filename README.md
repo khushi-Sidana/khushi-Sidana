@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I'm Khushi Sidana 👋
 
-<!--
-**khushi-Sidana/khushi-Sidana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Third-Year Computer Science Engineering Student
 
-Here are some ideas to get you started:
+💻 Passionate about Python Development, AI/ML, and Problem Solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+### Driver Drowsiness Detection System
+- Real-time driver fatigue detection using Computer Vision
+- Python, OpenCV, Dlib
+
+### DSA Visualizer
+- Visual representation of Data Structures and Algorithms
+- Python / Web Technologies
+
+### Car Rental Management System
+- Vehicle booking and management system
+- Database-driven application
+
+## 🛠️ Tech Stack
+
+- Python
+- C++
+- Java
+- MySQL
+- HTML
+- CSS
+- JavaScript
+- Machine Learning
+- Git & GitHub
+
+## 📚 Currently Learning
+
+- Data Structures & Algorithms
+- Machine Learning
+- System Design
+- Open Source Contribution
+
+## 🏆 Certifications
+
+- NPTEL Certifications
+- Technical Workshops and Courses
+
+## 📫 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/khushi-sidana-6a29663a9
+- GitHub: github.com/khushi-Sidana
+
+⭐ Always eager to learn, build, and contribute to impactful projects.
