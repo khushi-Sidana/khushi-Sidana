@@ -2,7 +2,7 @@
 
 🎓 Computer Engineering Undergraduate | J.C. Bose University of Science & Technology, Faridabad
 
-💻 Passionate about Software Development, Problem Solving & Intelligent Systems
+💻 Passionate about Software Development,Web Development, Problem Solving & Intelligent Systems
 
 I’m a Computer Engineering undergraduate with hands-on experience in software development, frontend development, databases, and computer vision. I enjoy building practical projects and continuously improving my programming and problem-solving skills.
 
@@ -15,7 +15,7 @@ Real-time driver drowsiness detection system using computer vision and image pro
 - Provides an alert when drowsiness is detected
 - **Tech:** Python, OpenCV, Computer Vision, Machine Learning
 
-### 📊 DSA Visualizer
+### 📊Structify - A DSA Visualizer
 Interactive web-based visualization tool for understanding data structures and algorithms.
 
 - Visualizes sorting and searching algorithms
@@ -30,6 +30,15 @@ Java-based database application for managing vehicle rental operations.
 - Billing and database integration
 - **Tech:** Java, OOP, MySQL, DBMS
 
+### 🏥MedFind - A Medicine Availability Network
+Web based application to help users find medicines and check their availability.
+
+- Pharmacy and Admin portals.
+- Inventory details, Generic alternatives, restock alerts.
+- Geolocation API.
+- Pharmacy verification and partner management.
+- **Tech:** HTML, CSS, JavaScript, API
+
 ## 🛠️ Technical Skills
 
 **Languages:**  
@@ -42,7 +51,7 @@ HTML5, CSS, JavaScript, Front-End Development
 MySQL, DBMS
 
 **Core Concepts:**  
-Data Structures, Object-Oriented Programming, Problem Solving
+Data Structures, Object-Oriented Programming, Problem Solving, Operating Systems, Computer Networks
 
 **AI & Computer Vision:**  
 Machine Learning, Computer Vision, Image Processing, OpenCV
@@ -53,7 +62,7 @@ Git, GitHub, VS Code, Jupyter Notebook
 ## 📚 Currently Learning
 
 - Data Structures & Algorithms
-- Front-End Web Development
+- Back-End Web Development
 - Machine Learning
 - Java & Object-Oriented Programming
 - Software Development
